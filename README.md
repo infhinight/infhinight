@@ -58,5 +58,5 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=noobcodedev&style=flat-square&color=red" alt=""/>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="noobcodedev" /> </p>
 </div>
