@@ -3,6 +3,12 @@ on:
   schedule: [{cron: "0 0 * * *"}] # Runs automatically every day at midnight UTC
   workflow_dispatch: # Allows you to run it manually from the Actions tab
 
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  metadata: read
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
