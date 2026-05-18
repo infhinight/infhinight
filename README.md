@@ -1,5 +1,5 @@
 
-<p>I am Tharusha Dilsara. dedicated Software Architect and Engineer with 2 years of learning experience in the dynamic realm of software development and Cybersecurty.
+<p>I am Tharusha Dilsara. dedicated System Architect and Engineer with 2 years of learning experience in the dynamic realm of software development and Cybersecurty.
 
 My expertise spans multiple programming languages, including Python, Java, and C++, where I craft elegant solutions that meet the most demanding technical challenges. I am passionate about designing robust and scalable software systems that drive innovation and enhance user experiences. My commitment to staying at the forefront of industry trends and my ability to work collaboratively make me a valuable asset to any project or team.
 
