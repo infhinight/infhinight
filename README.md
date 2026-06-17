@@ -10,7 +10,7 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
 ---
 
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/noobcodedev" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/infhinight" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
@@ -23,7 +23,7 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobcodedev&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobcodedev" alt="noobcodedev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infhinight" alt="infhinight" /></a> </p>
 
 ## SKILLS
 
@@ -46,7 +46,7 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
 </div><br>
 
 <div id="header" align="center">
- <a href="https://github.com/noobcodedev"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
+ <a href="https://github.com/infhinight"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tharusha-dilsara">
@@ -58,7 +58,7 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=noobcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="noobcodedev" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=infhinight&label=Profile%20views&color=0e75b6&style=flat" alt="infhinight" /> </p>
 </div>
 
 <div>
