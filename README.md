@@ -23,6 +23,8 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infhinight" alt="infhinight_tropy"/></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=infhinight&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## SKILLS
 
 <div>
