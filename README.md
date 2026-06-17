@@ -19,11 +19,9 @@ Let's connect on my Repo to explore knowledge and share insights within the soft
 
 
 ## STREAK
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=infhinight&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infhinight" alt="infhinight" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infhinight" alt="infhinight_tropy"/></a> </p>
 
 ## SKILLS
 
