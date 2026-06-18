@@ -1,4 +1,6 @@
-<p>We are a Internet company dedicated to creating robust, scalable, and secure software solutions. Our team of engineers focuses on clean code, continuous integration, and delivering high-value products to clients worldwide. We believe in open collaboration and contributing back to the community.</p>
+<p>We are a Internet company dedicated to creating robust, scalable, and secure software solutions. Our team of engineers focuses on clean code, continuous integration, and delivering high-value products to clients worldwide. We believe in open collaboration and contributing back to the community. Empowering developers with robust tools and open-source infrastructure. We build scalable SDKs, high-performance frameworks, and flexible APIs designed for the future of software development. Explore our repositories to integrate, contribute, and build faster.
+
+Enabling developers with high-quality software solutions. Home to our open-source projects, official SDKs, API documentation, and foundational frameworks. Build better, build faster.</p>
 
 <!-- --- -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&weight=800&size=18&pause=1000&color=09F700&center=true&vCenter=true&width=435&lines=Welcome+NOOBx+Repositorie+hub;Contribute+the+open+source+projects;Share+your+knowledge+with+others)](https://git.io/typing-svg) -->
