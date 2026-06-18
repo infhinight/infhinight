@@ -1,8 +1,4 @@
-<p>Dedicated System Architect and Engineer with 2 years of learning experience in the dynamic realm of software development and Cybersecurty.
-
-My expertise spans multiple programming languages, including Python, Java, and C++, where I craft elegant solutions that meet the most demanding technical challenges. I am passionate about designing robust and scalable software systems that drive innovation and enhance user experiences. My commitment to staying at the forefront of industry trends and my ability to work collaboratively make me a valuable asset to any project or team.
-
-Let's connect on my Repo to explore knowledge and share insights within the software development community.</p>
+<p>We are a Internet company dedicated to creating robust, scalable, and secure software solutions. Our team of engineers focuses on clean code, continuous integration, and delivering high-value products to clients worldwide. We believe in open collaboration and contributing back to the community.</p>
 
 <!-- --- -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&weight=800&size=18&pause=1000&color=09F700&center=true&vCenter=true&width=435&lines=Welcome+NOOBx+Repositorie+hub;Contribute+the+open+source+projects;Share+your+knowledge+with+others)](https://git.io/typing-svg) -->
