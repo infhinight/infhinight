@@ -18,7 +18,7 @@ Enabling developers with high-quality software solutions. Home to our open-sourc
 
 ## STREAK
 ![](https://github-readme-stats.shion.dev/api?username=infhinight&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=infhinight&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
+![](https://streak-stats.demolab.com?user=infhinight&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=infhinight&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- ## GitHub Trophies
